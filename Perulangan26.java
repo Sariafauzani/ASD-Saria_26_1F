@@ -9,7 +9,7 @@ public class Perulangan26 {
         System.out.println("==========================================================");
         System.out.print("Masukkan NIM : ");
         String NIM = input26.next();
-        System.out.println("====================");
+        System.out.println("=======================");
         
         // Mendapatkan dua digit terakhir NIM
         int n = Integer.parseInt(NIM.substring(NIM.length() - 2));
