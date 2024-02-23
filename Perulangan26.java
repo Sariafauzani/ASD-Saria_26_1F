@@ -21,7 +21,7 @@ public class Perulangan26 {
         System.out.println("n : " + n);
 
         // Menampilkan deretan bilangan
-        for (int i = 1; i <= 10; i++) {
+        for (int i = 1; i <= n; i++) {
             if (i == 6 || i == 10) {
                 continue; // 6 dan 10 dilewati
             }
